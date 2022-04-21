@@ -25,5 +25,5 @@ then put .npy in ./coco
 Please put .npy in [EPS/metadata/coco/](https://github.com/halbielee/EPS/tree/main/metadata/coco) to train.
 
 ## Download the result
-If you want to used the cls_label.npy of coco17 with 80(thing)+90(stuff) classes, please click [here (Google drive)](https://drive.google.com/file/d/1B_Dlx7FqtohgWmHduiIY-qAIqcBT3-zt/view?usp=sharing).
+If you want to use the cls_label.npy of coco17 with 80(thing)+90(stuff) classes, please click [here (Google drive)](https://drive.google.com/file/d/1B_Dlx7FqtohgWmHduiIY-qAIqcBT3-zt/view?usp=sharing).
 
