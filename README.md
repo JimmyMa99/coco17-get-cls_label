@@ -9,16 +9,16 @@ You can use this code to get json information in any coco dataset format and con
 - numpy
 
 ## Some adaptation work
-[PSA](https://github.com/jiwoon-ahn/psa)
+- [PSA](https://github.com/jiwoon-ahn/psa)
 Please create a new folder named coco, like [psa/voc12/](https://github.com/jiwoon-ahn/psa/tree/master/voc12),
 then put .npy in ./coco
 
-[IRN](https://github.com/jiwoon-ahn/irn)
+- [IRN](https://github.com/jiwoon-ahn/irn)
 Please create a new folder named coco, like [irn/voc12/](https://github.com/jiwoon-ahn/irn/tree/master/voc12),
 then put .npy in ./coco
 
-[EPS](https://github.com/halbielee/EPS)
-please put .npy in [EPS/metadata/coco/](https://github.com/halbielee/EPS/tree/main/metadata/coco) to train.
+- [EPS](https://github.com/halbielee/EPS)
+Please put .npy in [EPS/metadata/coco/](https://github.com/halbielee/EPS/tree/main/metadata/coco) to train.
 
 ## Download the result
 If you want to used the cls_label.npy of coco17 with 80(thing)+90(stuff) classes, please click [HERE (Google drive)](https://drive.google.com/file/d/1B_Dlx7FqtohgWmHduiIY-qAIqcBT3-zt/view?usp=sharing).
